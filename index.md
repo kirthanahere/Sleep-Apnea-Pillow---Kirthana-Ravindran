@@ -38,11 +38,9 @@ A **hybrid side-sleeping smart support system** combining:
 ---
 
 ## Media
-- Concept overview / system diagram
-- Concept screening matrix
-- Prototype test setup photos
+![Value Proposition](Value Proposition.jpg)
+![Concept Generation](Concept Generation.jpg)
 
-Example:
-![Concept overview](assets/concept-overview.png)
+
 
 
