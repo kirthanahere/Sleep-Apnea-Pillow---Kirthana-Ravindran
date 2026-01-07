@@ -38,11 +38,11 @@ A **hybrid side-sleeping smart support system** combining:
 ---
 
 ## Media
-![Value Proposition](Value Proposition.jpg)
 Value Proposition
-![Concept Generation](Concept Generation.jpg)
-Concept Generation
+![Value Proposition](Value Proposition.jpg)
 
+Concept Generation
+![Concept Generation](Concept Generation.jpg)
 
 
 
